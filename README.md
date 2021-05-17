@@ -1,2 +1,1 @@
-# Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+# A clean, beautiful, and responsive portfolio template
